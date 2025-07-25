@@ -39,7 +39,7 @@ Welcome to the ultimate list of the **top AI-powered kissing video generators of
 
 ---
 
-### 🎬 **FluxProWeb**
+### 🎬 **Flux Pro AI**
 - [AI Kiss Video Generator](https://fluxproweb.com/ai-kiss-video/)  
   Lightweight, fast, and mobile-friendly. Perfect for users who want instant results with minimal configuration.
 
